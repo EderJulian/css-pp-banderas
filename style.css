@@ -1,0 +1,50 @@
+
+
+.containerFlex {
+
+    display: flex;
+    background-color: gray;
+    width: auto;
+    height: auto;
+}
+
+.Flex {
+
+    display: flex;
+    flex: auto;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    
+}
+
+.Flex2 {
+
+    display: flex;
+    flex: auto;
+    flex-flow: column wrap;
+    align-content: space-around;
+    
+}
+
+.row, .row2, .row3 {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+        
+}
+/* .row2 {
+
+    display: flex;
+    justify-content: space-around;
+        
+}
+
+.row3 {
+
+    display: flex;
+    justify-content: space-around;
+} */
